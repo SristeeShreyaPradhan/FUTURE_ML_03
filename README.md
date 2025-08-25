@@ -6,7 +6,7 @@ A simple yet functional chatbot that provides **instant, 24/7 customer support**
 
 
 ## 🛠️ Tools & Technologies  
-- 🔧 Dialogflow (no-code)   
+- 🔧 Dialogflow   
 - 💬 Telegram Bot API   
 
 
@@ -26,7 +26,7 @@ A simple yet functional chatbot that provides **instant, 24/7 customer support**
    git clone https://github.com/your-username/customer-support-chatbot.git
    cd customer-support-chatbot
    
-2.Choose your chatbot framework: Dialogflow or ChatGPT API
+2.Choose your chatbot framework: Dialogflow 
 
 3.Import sample FAQ dataset or add your own training data
 
