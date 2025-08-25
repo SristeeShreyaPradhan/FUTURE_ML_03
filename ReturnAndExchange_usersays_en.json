@@ -1,0 +1,54 @@
+[
+  {
+    "id": "5e3ed42f-7ad3-400b-b881-e4cff66f8842",
+    "data": [
+      {
+        "text": "Why is my return or exchange cancelled?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aca0936a-6694-4d4b-aa11-4545e3ea356b",
+    "data": [
+      {
+        "text": "I want to exchange my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "efed649d-6c0f-48b4-9448-31e78bdbde59",
+    "data": [
+      {
+        "text": "I want to return my order.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "57e63f2c-04d7-48c2-9075-3c052609c7f4",
+    "data": [
+      {
+        "text": "What is the Return and Exchange policy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

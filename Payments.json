@@ -1,0 +1,37 @@
+{
+  "id": "590bfac9-d64e-4cc9-b83a-af3b4cfa1b5c",
+  "name": "Payments",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "You can pay using Cash On Delivery, Credit Card, Debit Card and Net banking.",
+            "You can choose any payment method among  Cash On Delivery, Credit Card, Debit Card and Net banking.",
+            "We provide Cash On Delivery, Credit Card, Debit Card and Net banking. You can choose whichever fits your preference."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,41 @@
+[
+  {
+    "id": "6b16d808-b0ab-439b-bd84-0a44b4f300f0",
+    "data": [
+      {
+        "text": "How should I pay?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b44d17ed-74f4-4ad0-bbf1-e2d3024b24dc",
+    "data": [
+      {
+        "text": "What mode of payment can I choose?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a97fdf03-446f-4fe6-be3c-ab48f4d5cd8a",
+    "data": [
+      {
+        "text": "How can I pay for my orders?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

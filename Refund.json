@@ -1,0 +1,37 @@
+{
+  "id": "50ee349b-6627-40c3-91fc-986196f61e9c",
+  "name": "Refund",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Your refund will be initiated after the product passes the quality check and return is successful. The refund amount will be transferred in your original mode of payment in 4-5 business days after the pickup.",
+            "Your refund will be initiated 4-5 business days after the product is returned. The refund amount will be transferred in your original mode of payment.",
+            "Your refund will be initiated once the product passes the quality check and gets picked up. The refund amount will be transferred in your original mode of payment 4-5 business days after the successful return."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

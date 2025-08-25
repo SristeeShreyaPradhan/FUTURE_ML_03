@@ -1,0 +1,67 @@
+[
+  {
+    "id": "71fa885a-92b7-488a-acda-55f7eb4bfcac",
+    "data": [
+      {
+        "text": "My order has not arrived yet.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "37ac4091-975b-4d17-8500-a524434652a5",
+    "data": [
+      {
+        "text": "When will my order arrive?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "21fb03f6-acfc-4cdc-ad73-bab9eb934998",
+    "data": [
+      {
+        "text": "When will my order come?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "40aa738c-23c0-407b-a37e-ad23305809f0",
+    "data": [
+      {
+        "text": "What is my order status?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6742b786-8efe-412e-8369-36fc80b964dc",
+    "data": [
+      {
+        "text": "Where is my order?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

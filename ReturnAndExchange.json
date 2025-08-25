@@ -1,0 +1,36 @@
+{
+  "id": "7fce6c5c-8a9d-43f8-bdde-52d4154ac137",
+  "name": "ReturnAndExchange",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "We provide convenient return or exchange if it is issued within 20 days of the delivery of your order. Your return or exchange will be done once the product satisfies the quality check.",
+            "You can issue a return or exchange within 20 days of the delivery date of your order. Your return or exchange will be done once the product satisfies the quality check."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,37 @@
+{
+  "id": "727e12e9-a936-4171-bcfd-9f398e8de6f3",
+  "name": "OrderDelivery",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "We are sorry for the delay. Our agent will contact you soon regarding this matter.",
+            "We regret the delay. Our agent will contact you soon.",
+            "Apologies for the delay. Our agent will contact you soon regarding this matter."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
