@@ -1,6 +1,6 @@
 # 💬 Customer Support Chatbot  
 
-A simple yet powerful chatbot that provides **instant, 24/7 customer support** by answering FAQs, assisting users, and handling queries automatically. Inspired by support systems from platforms like **Amazon, Flipkart, and Zomato**, this bot helps businesses improve customer experience and reduce response times.  
+A simple yet functional chatbot that provides **instant, 24/7 customer support** by answering FAQs, assisting users, and handling queries automatically. Inspired by support systems from platforms like **Amazon, Flipkart, and Zomato**, this bot helps businesses improve customer experience and reduce response times.  
 
 ---
 
